@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b87986f6-6c32-1a91-e2cb-8b721d15a877
 resourcetype: Document
 title: writngasgnmnt1_1.pdf
 uid: 3abd6474-8341-f4d6-6c82-905ff3ed4867

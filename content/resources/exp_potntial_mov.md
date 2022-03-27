@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7c86d1a7-19f1-8fd5-48c9-e6f111e49d9d
 resourcetype: Document
 title: exp_potntial_mov.pdf
 uid: d7195755-e874-d18e-9fdb-050e3d29f6c9

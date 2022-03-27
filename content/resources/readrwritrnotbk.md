@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7c86d1a7-19f1-8fd5-48c9-e6f111e49d9d
 resourcetype: Document
 title: readrwritrnotbk.pdf
 uid: 0b29ed37-71db-9bfc-92c4-f16fb3dac475

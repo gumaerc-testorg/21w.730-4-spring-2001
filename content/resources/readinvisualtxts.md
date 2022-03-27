@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b87986f6-6c32-1a91-e2cb-8b721d15a877
 resourcetype: Document
 title: readinvisualtxts.pdf
 uid: 7af55ab5-4725-d028-ca25-e264d6dd6f2b

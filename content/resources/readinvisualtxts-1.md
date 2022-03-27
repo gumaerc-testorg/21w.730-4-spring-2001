@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7c86d1a7-19f1-8fd5-48c9-e6f111e49d9d
 resourcetype: Document
 title: readinvisualtxts.pdf
 uid: 79122dd1-4f13-b32a-5da0-4c3b8495cc34

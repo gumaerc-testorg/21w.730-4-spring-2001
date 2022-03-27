@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7c86d1a7-19f1-8fd5-48c9-e6f111e49d9d
 resourcetype: Document
 title: oral_prnttn_eval.pdf
 uid: 2c64279c-0c2d-84fc-d8cd-94139093daf7

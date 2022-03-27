@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 7c86d1a7-19f1-8fd5-48c9-e6f111e49d9d
 resourcetype: Document
 title: peerreview.pdf
 uid: 5649e57e-ba8e-6e97-7515-062b6d50237d

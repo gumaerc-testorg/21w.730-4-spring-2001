@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b87986f6-6c32-1a91-e2cb-8b721d15a877
 resourcetype: Document
 title: rev_ex_essay_2.pdf
 uid: 71d724fe-5745-3270-ada4-f3d7e61236bc

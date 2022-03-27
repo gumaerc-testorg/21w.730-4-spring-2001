@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b87986f6-6c32-1a91-e2cb-8b721d15a877
 resourcetype: Document
 title: essay1postcv.pdf
 uid: 53ee3d14-2cfe-cdeb-783e-ec463c1d402e
