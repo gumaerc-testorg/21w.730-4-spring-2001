@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/7af55ab54725d028ca25e264d6dd6f2b_readinvisualtxts.pdf
+file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/7af55ab54725d028ca25e264d6dd6f2b_readinvisualtxts.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
