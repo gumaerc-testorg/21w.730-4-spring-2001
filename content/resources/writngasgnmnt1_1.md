@@ -5,6 +5,7 @@ file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/3ab
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: writngasgnmnt1_1.pdf
 uid: 3abd6474-8341-f4d6-6c82-905ff3ed4867
 ---
 This resource includes the instructions for writing the essay assignment.
-

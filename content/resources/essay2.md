@@ -6,6 +6,7 @@ file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/207
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: essay2.pdf
 uid: 207f2f51-bebe-c367-9bdd-62dffbdb63ed
 ---
 This resource includes the introduction and pre writing stages for essay 2.
-

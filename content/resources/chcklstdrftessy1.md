@@ -4,6 +4,7 @@ description: This resource includes a draft checklist for essay 1.
 file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/e6dc8a757e188fdb1bea6895c2c2e643_chcklstdrftessy1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: chcklstdrftessy1.pdf
 uid: e6dc8a75-7e18-8fdb-1bea-6895c2c2e643
 ---
 This resource includes a draft checklist for essay 1.
-

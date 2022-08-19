@@ -5,6 +5,7 @@ file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/cc1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: essay_3.pdf
 uid: cc14dc8e-a597-b6a3-f3f3-43940bc9f495
 ---
 This resource includes introduction and exersices for essay 3.
-

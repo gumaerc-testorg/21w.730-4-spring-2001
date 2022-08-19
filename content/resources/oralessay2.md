@@ -6,6 +6,7 @@ file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/cee
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: oralessay2.pdf
 uid: ceefacc5-b40b-349e-4c52-a7239a131fd2
 ---
 The research includes the intructions to prepare the oral presentation for essay 2 to be presented at the end of second unit.
-

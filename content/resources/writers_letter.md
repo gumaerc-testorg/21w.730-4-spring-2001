@@ -5,6 +5,7 @@ file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/4b1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: writers_letter.pdf
 uid: 4b12ec95-bf19-ba71-91bb-472266d7d50a
 ---
 This resource includes a set of questions to judge each person as a writer.
-

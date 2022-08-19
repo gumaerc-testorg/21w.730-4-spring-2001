@@ -6,6 +6,7 @@ file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/b47
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: essay1guidedrev.pdf
 uid: b47ca09a-ca9b-9c79-a097-90e5bce8cbfd
 ---
 This resource includes the information on the secondary sources, sentence level editing, and write acknowledgements required for the first essay.
-
