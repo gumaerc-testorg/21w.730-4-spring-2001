@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes a letter by the professor addressing the students,
   telling about the essay drats.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/5649e57eba8e6e977515062b6d50237d_peerreview.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/5649e57eba8e6e977515062b6d50237d_peerreview.pdf
+file_size: 21522
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

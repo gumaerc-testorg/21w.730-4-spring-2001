@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource gives information on the analogies about the relationship
   of novel and its film adaptation.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/689204503a019557dc36323a4014fa7d_analogies.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/689204503a019557dc36323a4014fa7d_analogies.pdf
+file_size: 69078
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

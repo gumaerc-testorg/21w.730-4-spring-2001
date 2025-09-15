@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes a comment sheet with various attributes.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/537473e7a374dd03023a5732500fe831_cmntintrowrkshp.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/537473e7a374dd03023a5732500fe831_cmntintrowrkshp.pdf
+file_size: 77835
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

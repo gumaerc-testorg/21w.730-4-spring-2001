@@ -2,7 +2,8 @@
 content_type: resource
 description: The research includes the intructions to prepare the oral presentation
   for essay 2 to be presented at the end of second unit.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/ceefacc5b40b349e4c52a7239a131fd2_oralessay2.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/ceefacc5b40b349e4c52a7239a131fd2_oralessay2.pdf
+file_size: 48287
 file_type: application/pdf
 learning_resource_types:
 - Assignments

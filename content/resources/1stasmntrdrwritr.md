@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes the a brief description on the topic Media Artifacts
   and instructions for the assignment.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/87eae22e761b1bf3a2e1f23adc64ce34_1stasmntrdrwritr.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/87eae22e761b1bf3a2e1f23adc64ce34_1stasmntrdrwritr.pdf
+file_size: 59695
 file_type: application/pdf
 learning_resource_types:
 - Assignments

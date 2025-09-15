@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes the information on the secondary sources, sentence
   level editing, and write acknowledgements required for the first essay.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/b47ca09aca9b9c79a09790e5bce8cbfd_essay1guidedrev.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/b47ca09aca9b9c79a09790e5bce8cbfd_essay1guidedrev.pdf
+file_size: 82173
 file_type: application/pdf
 learning_resource_types:
 - Assignments

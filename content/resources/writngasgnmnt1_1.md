@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes the instructions for writing the essay assignment.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/3abd64748341f4d66c82905ff3ed4867_writngasgnmnt1_1.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/3abd64748341f4d66c82905ff3ed4867_writngasgnmnt1_1.pdf
+file_size: 109575
 file_type: application/pdf
 learning_resource_types:
 - Assignments

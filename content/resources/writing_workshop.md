@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes the drafts to review for the writing workshop.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/2499b7678622d3bf4e21a9d608f6d1d8_writing_workshop.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/2499b7678622d3bf4e21a9d608f6d1d8_writing_workshop.pdf
+file_size: 162195
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

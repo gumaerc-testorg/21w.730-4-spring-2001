@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes the introduction and pre writing stages for essay
   2.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/207f2f51bebec3679bdd62dffbdb63ed_essay2.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/207f2f51bebec3679bdd62dffbdb63ed_essay2.pdf
+file_size: 30212
 file_type: application/pdf
 learning_resource_types:
 - Assignments

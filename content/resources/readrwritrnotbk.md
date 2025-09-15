@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes information on formal and informal writings.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/0b29ed3771db9bfc92c4f16fb3dac475_readrwritrnotbk.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/0b29ed3771db9bfc92c4f16fb3dac475_readrwritrnotbk.pdf
+file_size: 118078
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

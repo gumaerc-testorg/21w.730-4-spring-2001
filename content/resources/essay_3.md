@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes introduction and exersices for essay 3.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/cc14dc8ea597b6a3f3f343940bc9f495_essay_3.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/cc14dc8ea597b6a3f3f343940bc9f495_essay_3.pdf
+file_size: 307097
 file_type: application/pdf
 learning_resource_types:
 - Assignments

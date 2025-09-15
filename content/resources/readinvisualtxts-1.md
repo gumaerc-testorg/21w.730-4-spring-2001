@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource briefly explains closely reading a visual text.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/79122dd14f13b32a5da04c3b8495cc34_readinvisualtxts.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/79122dd14f13b32a5da04c3b8495cc34_readinvisualtxts.pdf
+file_size: 40929
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

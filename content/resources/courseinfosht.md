@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes a questionaire form to add all the information
   about the course.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/2228c129a62b8afdfd8477278dd455d3_courseinfosht.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/2228c129a62b8afdfd8477278dd455d3_courseinfosht.pdf
+file_size: 86447
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

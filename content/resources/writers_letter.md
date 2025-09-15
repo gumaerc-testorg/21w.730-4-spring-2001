@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes a set of questions to judge each person as a writer.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/4b12ec95bf19ba7191bb472266d7d50a_writers_letter.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/4b12ec95bf19ba7191bb472266d7d50a_writers_letter.pdf
+file_size: 112472
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes a form for the evaluation of the oral presentation.
-file: /courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/2c64279c0c2d84fcd8cd94139093daf7_oral_prnttn_eval.pdf
+file: /ol-ocw-studio-app/courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001/2c64279c0c2d84fcd8cd94139093daf7_oral_prnttn_eval.pdf
+file_size: 35812
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
