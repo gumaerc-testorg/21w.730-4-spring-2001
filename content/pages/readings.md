@@ -18,9 +18,9 @@ Postman, Neil. _Amusing Ourselves to Death_. New York, NY: Viking, 1985. ISBN: 9
 
 Kaysen, Susanna. _Girl, Interrupted_. New York, NY: Vintage, 1994. ISBN: 9780679746041.
 
-Mangold, James. [_Girl, Interrupted_](http://www.imdb.com/title/tt0172493/)_._ Film, 1999.
+Mangold, James. {{% resource_link "cd9bc238-9a7e-4279-a794-90ea8a69561d" "_Girl, Interrupted_" %}}_._ Film, 1999.
 
-Perelman, Leslie, James Paradis, and Edward Barrett. [_The Mayfield Handbook of Technical and Scientific Writing_](http://web.mit.edu/course/21/21.guide/Demo/web/)_._
+Perelman, Leslie, James Paradis, and Edward Barrett. {{% resource_link "d2c467a8-fe7d-4b00-aa5f-e8fafc402492" "_The Mayfield Handbook of Technical and Scientific Writing_" %}}_._
 
 You should also have on hand a college dictionary and thesaurus such as _The Oxford English Dictionary._ New York, NY: Oxford University Press, 1991. ISBN: 9780198612582.
 
@@ -160,7 +160,7 @@ Steinem, Gloria. "Sex, Lies and Advertising." In _Gender, Race, and Class in Med
 
 Kilbourne, Jean. "Beauty and the Beast of Advertising." In _Gender, Race, and Class in Media_. pp. 121-125.
 
-Documentary Film: [_Killing Us Softly 3_](http://www.imdb.com/title/tt0336699/). Media Education Foundation, 2000.
+Documentary Film: {{% resource_link "3c16b2eb-8b23-4433-a26f-ee4847c9062f" "_Killing Us Softly 3_" %}}. Media Education Foundation, 2000.
 
 
 {{< tdclose >}}

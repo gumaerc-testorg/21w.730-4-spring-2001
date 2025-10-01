@@ -67,7 +67,7 @@ Over the course of the semester, I am available to meet with you in conferences 
 
 ### Writing Center
 
-The Writing and Communication Center, also offers consultations on student writing. You may visit the Writing Center at any point in the writing process: prewriting, drafting or revising a piece of writing. In addition, The Writing and Communication Center offers advice on preparing oral presentations. It's best to schedule an appointment by calling the Center. For further information, consult [MIT's Writing and Communication Center](http://web.mit.edu/writing/Center).
+The Writing and Communication Center, also offers consultations on student writing. You may visit the Writing Center at any point in the writing process: prewriting, drafting or revising a piece of writing. In addition, The Writing and Communication Center offers advice on preparing oral presentations. It's best to schedule an appointment by calling the Center. For further information, consult {{% resource_link "81da5f52-2831-40c4-b996-9dcb5865ae51" "MIT's Writing and Communication Center" %}}.
 
 ### Writing Portfolio
 
